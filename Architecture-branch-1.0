@@ -1,0 +1,3 @@
+In kubernetes there are two types of main layers
+1. Control Plane
+2. Worker Node
